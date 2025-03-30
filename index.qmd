@@ -2,4 +2,4 @@
 title: "DSCI 310 Tutorial 9 Quarto Website"
 ---
 
-I love tutorial 9 woot woot.
+I love tutorial 9 woot woot. Wooooot
